@@ -6,7 +6,7 @@ Please find links to notes and code samples below.
 ## WildTrack AI (Fall 2020 - present)
 
 
-<img align="left" src="WTMobil_AmurTiger.Screenshot.png" width="20%">
+<img align="left" src="WTMobil_AmurTiger.Screenshot.png" width="25%">
 *Keywords* : Android/Kotlin/Java, Android Development Deep Learning, Computer Vision, Footprint identification technology (FIT), VGG, Tensorflow, XCeption/Inception/NASNet (In Progress!)
 <br><br>
 
