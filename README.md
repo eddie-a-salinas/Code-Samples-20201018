@@ -18,9 +18,7 @@ This repo includes a kotlin snippet [driver_activity](https://github.com/eddie-a
 It also includes a [kotlin class](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/SpeciesClassifier.kt) for implementing the classification function].
 
 A Jupyter/Python notebook is also [here](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/Explore_results.ipynb) demonstrating strengths and weaknesses in the models.
-
-
-<br><br>
+<br>
 ## FireCloud (2015-2018)
 
 [Firecloud](https://portal.firecloud.org/) is a web-based platform for organized batch job submission of containerized WDL workflows to Google Cloud.
