@@ -15,7 +15,7 @@ Please find links to notes and code samples below.
 My contributions are on the Android app and testing the models on the device.  I have been using Android Studio and an emulated device.  Using TensorflowLite the app runs 3 models to classify an image.  The three models are XCeption, Inception, and NasNet.  Currently, the app, being in development on a virtual device, can take input via the photo library, or the on-board camera.  A "batch" mode which downloads a file-of-files and runs inference on each of those has been in progress recently as well.
 
 This repo includes a kotlin snippet [driver_activity](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/driver_activity.kt) of a driver class of that invokes the models for the batch mode.
-It also includes a [kotlin class](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/SpeciesClassifier.kt) for implementing the classification function].
+It also includes a [kotlin class](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/SpeciesClassifier.kt) for implementing the classification function.
 
 A Jupyter/Python notebook is also [here](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/Explore_results.ipynb) demonstrating strengths and weaknesses in the models.
 <br><br>
