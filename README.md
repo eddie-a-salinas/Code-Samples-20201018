@@ -79,7 +79,7 @@ The code isn't used "as is" but was adapted at the time of deployment in 2014/20
 
 *Keywords* : Java, MCMC (Markov-Chain Monte Carlo), MCMCMC(Metropolis-Coupled Markov-Chain Monte Carlo), Thermodynamic Integration, Bayes Factors, applied coalescent theory, trees & multiple mergers genealogies, phylogenetics
 
-COMET stands for COalescent with Multiple mergers Employing Thermodynamic integration.  It is an *unpaid* project.
+COMET stands for COalescent with Multiple mergers Employing Thermodynamic integration.  It is an *unpaid* project.  COMET is a program for MCMC-based sampling of multiple mergers genealogies based on multiple mergers coalescent models. It can be used with different BETA settings for running chains at various heats so that marginal probabilities of models can be computed using thermodynamic integration.
 
 Learn more here : [http://eddie-salinas-com.s3-website-us-east-1.amazonaws.com/COMET/index.html](http://eddie-salinas-com.s3-website-us-east-1.amazonaws.com/COMET/index.html)
 
