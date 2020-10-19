@@ -6,7 +6,7 @@ Please find links to notes and code samples below.
 ## WildTrack AI (Fall 2020 - present)
 
 
-<img align="left" src="WTMobil_AmurTiger.Screenshot.png" width="15%">
+<img align="left" src="WTMobil_AmurTiger.Screenshot.png" width="20%">
 *Keywords* : Android/Kotlin/Java, Android Development Deep Learning, Computer Vision, Footprint identification technology (FIT), VGG, Tensorflow, XCeption/Inception/NASNet (In Progress!)
 
 [WildTrackAI](https://wildtrack.ml/) is a collaborative effort towards automation of animal footprints identification ([FIT](https://wildtrack.org/learn-more/footprint-identification-fit/)) with computer vision and AI/ML technology.  Among those efforts ia a project to make available an Android App for taking photos of footprints, performing classification on the device, and perhaps a way for users to curate images.
