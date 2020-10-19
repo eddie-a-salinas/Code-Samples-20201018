@@ -23,7 +23,7 @@ My contributions are on the Android app and testing the models on the device.  I
 
 Learn more about firecloud [here](https://datascience.cancer.gov/news-events/events/firecloud-future-cancer-genome-analysis) or from this [biorxiv link/paper](https://www.biorxiv.org/content/10.1101/209494v1).
 
-I contributed not only workflows ([WDLs(https://github.com/openwdl/wdl)]) for firecloud but also to the "orchestration" and UI layers.
+I contributed not only workflows ([WDLs](https://github.com/openwdl/wdl)) for firecloud but also to the "orchestration" and UI layers.
 
 Below are two links to pull-requests I participated in 
 
