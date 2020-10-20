@@ -21,7 +21,7 @@ A Jupyter/Python notebook is also [here](https://github.com/eddie-a-salinas/Code
 <br><br>
 ## FireCloud (2015-2018)
 
-*Keywords* : Javascript, Clojure/ClojureScript, React, HTML, CSS, visualization, object-oriented programming, AJAX
+*Keywords* : Javascript, Clojure/ClojureScript, React, HTML, CSS, visualization, object-oriented programming, AJAX, docker, WDL, somatic variant pipelines
 
 [Firecloud](https://portal.firecloud.org/) is a web-based platform for organized batch job submission of containerized WDL workflows to Google Cloud.
 
