@@ -8,7 +8,7 @@ Please find links to notes and code samples below.
 
 <img align="left" src="WTMobil_AmurTiger.Screenshot.png" width="25%">
 
-*Keywords* : Android/Kotlin/Java, Android Development, Deep Learning, Computer Vision, Footprint identification technology (FIT), VGG, Tensorflow, XCeption/Inception/NASNet 
+*Keywords* : Android/Kotlin/Java, Android Development, Deep Learning, Computer Vision, Footprint identification technology (FIT), VGG, Tensorflow, XCeption/Inception/NASNet  
 <br><br>
 [WildTrackAI](https://wildtrack.ml/) is a collaborative effort towards automation of animal footprints identification ([FIT](https://wildtrack.org/learn-more/footprint-identification-fit/)) with computer vision and AI/ML technology.  Among those efforts ia a project to make available an Android App for taking photos of footprints, performing classification on the device, and perhaps a way for users to curate images.
 
@@ -18,7 +18,7 @@ This repo includes a kotlin snippet [driver_activity](https://github.com/eddie-a
 It also includes a [kotlin class](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/SpeciesClassifier.kt) for implementing the classification function.
 
 A Jupyter/Python notebook is also [here](https://github.com/eddie-a-salinas/Code-Samples-20201018/blob/main/wildtrack_code/Explore_results.ipynb) demonstrating strengths and weaknesses in the models.
-<br><br>
+<br><br><br><br>
 ## FireCloud (2015-2018)
 
 *Keywords* : Javascript, Clojure/ClojureScript, React, HTML, CSS, visualization, object-oriented programming, AJAX, docker, WDL, somatic variant pipelines
