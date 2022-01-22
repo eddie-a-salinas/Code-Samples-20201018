@@ -3,7 +3,7 @@
 Please find links to notes and code samples below.
 
 
-## WildTrack AI (Fall 2020 - present)
+## WildTrack AI (Fall 2020)
 
 
 <img align="left" src="WTMobil_AmurTiger.Screenshot.png" width="25%">
