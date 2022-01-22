@@ -10,7 +10,7 @@ Please find links to notes and code samples below.
 
 *Keywords* : Android/Kotlin/Java, Android Development, Deep Learning, Computer Vision, Footprint identification technology (FIT), VGG, Tensorflow, XCeption/Inception/NASNet  
 <br><br>
-[WildTrackAI](https://wildtrack.ml/) is a collaborative effort towards automation of animal footprints identification ([FIT](https://wildtrack.org/learn-more/footprint-identification-fit/)) with computer vision and AI/ML technology.  Among those efforts ia a project to make available an Android App for taking photos of footprints, performing classification on the device, and perhaps a way for users to curate images.
+[WildTrack](https://wildtrack.org/) is a collaborative effort towards automation of animal footprints identification ([FIT](https://wildtrack.org/learn-more/footprint-identification-fit/)) with computer vision and AI/ML technology.  Among those efforts ia a project to make available an Android App for taking photos of footprints, performing classification on the device, and perhaps a way for users to curate images.
 
 My contributions are on the Android app and testing the models on the device.  I have been using Android Studio and an emulated device.  Using TensorflowLite, the app runs 3 models to classify an image.  The three models are XCeption, Inception, and NasNet.  Currently, the app, being in development on a virtual device, can take input via the photo library, or the on-board camera.  A "batch" mode which downloads a file-of-files and runs inference on each of those has been in progress recently as well.
 
